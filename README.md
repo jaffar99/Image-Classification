@@ -25,3 +25,5 @@ This dataset is available in Keras
                    
 Execute the file using
       ---------python3 gui.py-----
+      
+A demo gif is availble in the directory
