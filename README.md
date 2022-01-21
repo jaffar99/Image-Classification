@@ -28,4 +28,4 @@ Execute the file using
       
 A demo gif is availble in the directory
 
-Image-classification-project.gif
+https://github.com/jaffar99/Image-Classification/blob/56a7f6d52d7eb20c596272ac33ec48ff8de5eb96/Image-classification-project.gif
