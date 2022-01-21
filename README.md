@@ -27,3 +27,5 @@ Execute the file using
       ---------python3 gui.py-----
       
 A demo gif is availble in the directory
+
+Image-classification-project.gif
